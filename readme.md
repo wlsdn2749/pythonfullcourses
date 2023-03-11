@@ -24,11 +24,10 @@
 #17 (01:30:47​) tuples 📄 <br>
 #18 (01:33:47​) sets 🍴 <br>
 #19 (01:40:03​) dictionaries 📖 <br>
-#20 (01:47:20​) indexing 📑<br>
-
 <h3> Finished 2023/3/11 
 <hr>
 <h3> Not start yet </h3>
+#20 (01:47:20​) indexing 📑<br>
 #21 (01:53:23​) functions 📞 <br>
 #22 (02:02:03​) return statement 🔙 <br>
 #23 (02:04:51) keyword arguments 🔑<br>
