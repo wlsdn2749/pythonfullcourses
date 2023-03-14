@@ -33,7 +33,7 @@
 #23 (02:04:51) keyword arguments 🔑<br>
 <h3> Finished 2023/3/13
 <hr>
-<h3> Not start yet </h3>
+
 
 #24 (02:07:09​) nested function calls 🖇️<br>
 #25 (02:09:40​) variable scope 🔬 <br>
@@ -48,6 +48,9 @@
 #34 (02:53:45​) copy a file 🖨️<br>
 #35 (02:57:05​) move a file 🗃️<br>
 #36 (03:01:20​) delete a file 🗑️<br>
+<h3> Finished 2023/3/15
+<hr>
+<h3> Not start yet </h3>
 #37 (03:06:15​) modules 💌<br>
 #38 (03:10:26) rock, paper, scissors game 🗿<br>
 #39 (03:18:32​) quiz game 💯 <br>
