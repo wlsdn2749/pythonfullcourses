@@ -24,14 +24,14 @@
 #17 (01:30:47​) tuples 📄 <br>
 #18 (01:33:47​) sets 🍴 <br>
 #19 (01:40:03​) dictionaries 📖 <br>
-<h3> Finished 2023/3/11 
+<h3> Finished 2023/3/11 </h3>
 <hr>
 
 #20 (01:47:20​) indexing 📑<br>
 #21 (01:53:23​) functions 📞 <br>
 #22 (02:02:03​) return statement 🔙 <br>
 #23 (02:04:51) keyword arguments 🔑<br>
-<h3> Finished 2023/3/13
+<h3> Finished 2023/3/13 </h3>
 <hr>
 
 
@@ -48,11 +48,13 @@
 #34 (02:53:45​) copy a file 🖨️<br>
 #35 (02:57:05​) move a file 🗃️<br>
 #36 (03:01:20​) delete a file 🗑️<br>
-<h3> Finished 2023/3/15
+<h3> Finished 2023/3/15 </h3>
 <hr>
-<h3> Not start yet </h3>
 #37 (03:06:15​) modules 💌<br>
 #38 (03:10:26) rock, paper, scissors game 🗿<br>
+<h3> Finished 2023/3/19 </h3>
+<hr>
+<h3> Not start yet </h3>
 #39 (03:18:32​) quiz game 💯 <br>
 #40 (03:35:45​) Object Oriented Programming (OOP) 🐍<br>
 #41 (03:45:06​) class variables 🚗 <br>
