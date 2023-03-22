@@ -4,5 +4,5 @@ from modules_02 import *
 # msg.hello()
 hello()
 
-help("modules")
+# help("modules") # module finding installed
 
