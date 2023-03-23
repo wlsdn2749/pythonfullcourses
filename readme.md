@@ -58,17 +58,20 @@
 #40 (03:35:45​) Object Oriented Programming (OOP) 🐍<br>
 #41 (03:45:06​) class variables 🚗 <br>
 <h3> Finished 2023/3/22 </h3>
+<hr>
 #42 (03:48:54​) inheritance 👪<br>
 #43 (03:55:30​) multilevel inheritance 👴<br>
 #44 (03:58:32) multiple inheritance 👨‍👩‍👧‍👦
 <h3> Finished 2023/3/22 </h3>
 <hr>
-<h3> Not start yet </h3>
 #45 (04:01:49) method overriding 🙅<br>
 #46 (04:04:14​) method chaining ⛓️<br>
 #47 (04:08:08) super function 🦸<br>
 #48 (04:12:09​) abstract classes 👻<br>
 #49 (04:19:12) objects as arguments 🏍️<br>
+<h3> Finished 2023/3/24 </h3>
+<hr>
+<h3> Not start yet </h3>
 #50 (04:23:20​) duck typing 🦆<br>
 #51 (04:27:38) walrus operator 🦦<br>
 #52 (04:31:45​) functions to variables 📛<br>
