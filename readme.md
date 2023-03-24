@@ -71,13 +71,15 @@
 #49 (04:19:12) objects as arguments 🏍️<br>
 <h3> Finished 2023/3/24 </h3>
 <hr>
-<h3> Not start yet </h3>
 #50 (04:23:20​) duck typing 🦆<br>
 #51 (04:27:38) walrus operator 🦦<br>
 #52 (04:31:45​) functions to variables 📛<br>
 #53 (04:35:21​) higher order functions 👑<br>
 #54 (04:41:06​) lambda λ <br>
 #55 (04:45:44​) sort 🗄️ <br>
+<h3> Finished 2023/3/24 14:34:00 KST</h3>
+<hr>
+<h3> Not start yet </h3>
 #56 (04:53:22​) map 🗺️ <br>
 #57 (04:57:17​) filter 🍺 <br>
 #58 (05:00:10​) reduce ♻️ <Br>
