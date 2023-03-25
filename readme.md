@@ -79,12 +79,16 @@
 #55 (04:45:44​) sort 🗄️ <br>
 <h3> Finished 2023/3/24 14:34:00 KST</h3>
 <hr>
-<h3> Not start yet </h3>
 #56 (04:53:22​) map 🗺️ <br>
 #57 (04:57:17​) filter 🍺 <br>
 #58 (05:00:10​) reduce ♻️ <Br>
+<h3> Finished 2023/3/24 19:50:00 KST</h3>
+<hr>
 #59 (05:04:54​) list comprehensions 📰 <br>
 #60 (05:10:54) dictionary comprehensions 🕮<br>
+<h3> Finished 2023/3/25</h3>
+<hr>
+<h3> Not start yet </h3>
 #61 (05:18:59​) zip function 🤐 <br>
 #62 (05:23:41​) if name == '__main__' ❓<br>
 #63 (05:29:21​) time module ⌚ <br>
